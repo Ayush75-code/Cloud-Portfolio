@@ -81,7 +81,7 @@ While building this cloud portfolio, check out my **published research**:
 ## 📫 Contact
 
 - **Email:** ayushd9275@gmail.com
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/YOUR-LINKEDIN)
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/ayush-dewangan-0183a63a3)
 
 ---
 
