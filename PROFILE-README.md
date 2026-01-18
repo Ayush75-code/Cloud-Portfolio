@@ -23,7 +23,7 @@
 
 Novel anti-virulence therapy targeting *Listeria monocytogenes* using triterpenoid inhibitors. Identified lead compound with ΔGbind of **−17.09 kcal/mol**.
 
-[![Repo](https://img.shields.io/badge/GitHub-InlH_Discovery-181717?style=flat&logo=github)](https://github.com/Ayush75-code/InlH-1H6u-Inhibitor-Discovery)
+[![Repo](https://img.shields.io/badge/GitHub-InlH_Discovery-181717?style=flat&logo=github)](https://github.com/Aayush-ob/InlH-1H6u-Inhibitor-Discovery)
 
 ---
 
@@ -31,8 +31,8 @@ Novel anti-virulence therapy targeting *Listeria monocytogenes* using triterpeno
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [GPR55 Antagonist Discovery](https://github.com/Ayush75-code/GPR55-Antagonist-Discovery) | 35K compound HTVS for cancer therapeutics on GCP | 🔄 In Progress |
-| [Cloud Portfolio](https://github.com/Ayush75-code/Cloud-Portfolio) | Multi-cloud infrastructure projects (AWS + GCP) | 📚 Learning |
+| [GPR55 Antagonist Discovery](https://github.com/Aayush-ob/GPR55-Antagonist-Discovery) | 35K compound HTVS for cancer therapeutics on GCP | 🔄 In Progress |
+| [Cloud Portfolio](https://github.com/Aayush-ob/Cloud-Portfolio) | Multi-cloud infrastructure projects (AWS + GCP) | 📚 Learning |
 
 ---
 
@@ -57,7 +57,7 @@ Novel anti-virulence therapy targeting *Listeria monocytogenes* using triterpeno
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush75-code&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-ob&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---

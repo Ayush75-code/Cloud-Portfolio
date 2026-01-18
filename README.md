@@ -26,7 +26,7 @@ This repository tracks my cloud engineering learning journey. Projects progress 
 
 ---
 
-### GCP Projects (Using $2,000 Startup Credits)
+### GCP Projects
 
 | # | Project | Status | Technologies |
 |---|---------|--------|--------------|
@@ -35,7 +35,7 @@ This repository tracks my cloud engineering learning journey. Projects progress 
 | G3 | Terraform Infrastructure | 📋 Planned (Mar) | Terraform, VPC, GCE |
 | G4 | GKE Microservices | 📋 Planned (Apr) | GKE, Cloud Build |
 
-### AWS Projects (Using Free Tier)
+### AWS Projects
 
 | # | Project | Status | Technologies |
 |---|---------|--------|--------------|
@@ -54,8 +54,8 @@ While building this cloud portfolio, check out my **published research**:
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [InlH Inhibitor Discovery](https://github.com/Ayush75-code/InlH-1H6u-Inhibitor-Discovery) | Published paper on anti-virulence therapy | ✅ Published |
-| [GPR55 Antagonist Discovery](https://github.com/Ayush75-code/GPR55-Antagonist-Discovery) | 35K compound HTVS on GCP | 🔄 In Progress |
+| [InlH Inhibitor Discovery](https://github.com/Aayush-ob/InlH-1H6u-Inhibitor-Discovery) | Published paper on anti-virulence therapy | ✅ Published |
+| [GPR55 Antagonist Discovery](https://github.com/Aayush-ob/GPR55-Antagonist-Discovery) | 35K compound HTVS on GCP | 🔄 In Progress |
 
 ---
 
@@ -73,7 +73,7 @@ While building this cloud portfolio, check out my **published research**:
 
 ## 📊 Learning Resources
 
-- Study materials in [Cloud-Career-Journey](https://github.com/Ayush75-code/Cloud-Career-Journey) (private)
+- Study materials in private repository
 - GCP certification prep via Qwiklabs
 
 ---
